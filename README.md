@@ -1,45 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Resolvidos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 180149598  |  Victor Hugo SIqueira Costa |
+| 180029240  |  Wesley Pedrosa dos Santos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Solução de exercícios sobre Algoritmos Ambiciosos pela dupla 12 (Victor Hugo, Wesley Santos). Foram utilizadas as plataformas *beecrowd* e *Codeforces*.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[2048 Game](https://codeforces.com/contest/1221/problem/A)<br>
+<img src="Imagens/2048_Game(Exer).PNG" alt="2048_Game(Exer)"/><br>
+<img src="Imagens/2048_Game(Cont).PNG" alt="2048_Game(Cont)"/><br>
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+[Guerra](https://www.beecrowd.com.br/judge/pt/problems/view/2095)<br>
+<img src="Imagens/Guerra(Exer).png" alt="Guerra(Exer)"/><br>
+<img src="Imagens/Guerra(Cont).png" alt="Guerra(Cont)"/><br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+[Hit the Lottery](https://codeforces.com/problemset/problem/996/A)<br>
+<img src="Imagens/Hit_the_Lottery(Exer).PNG" alt="Hit_the_Lottery(Exer)"/><br>
+<img src="Imagens/Hit_the_Lottery(Cont).PNG" alt="Hit_the_Lottery(Cont)"/><br>
 
 
-
+## Instalação e Uso
+**Linguagem**: C++<br>
+Para testar os códigos e conseguir os *aceppted* basta ir no link de cada um dos exercícios e submeter o respectivo código para a plataforma poder avaliar<br>
